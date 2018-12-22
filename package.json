@@ -1,0 +1,28 @@
+{
+  "name": "auctionProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-nettuts:tin1811997/auctionProject_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bull": "^3.5.2",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^5.4.0",
+    "uuid": "^3.3.2"
+  }
+}
